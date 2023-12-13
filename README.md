@@ -43,3 +43,4 @@ Table 1 and Figure 1.
 
 Running cells in snn-brian2 sequentially will generate results for Table 2 and Table 3.
 
+The code looks messy because there are problems accessing network parameters if the code of simulation and network initialization are handled in functions. 
